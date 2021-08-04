@@ -1,8 +1,4 @@
 # sandeep-sparrow
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo6328
-Fork on GitHub1115
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate Mainframe/ASP.NET MVC developer from India</h3>
 
