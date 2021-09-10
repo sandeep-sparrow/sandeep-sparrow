@@ -20,11 +20,11 @@
 
 - 📝 I regularly write articles on [https://yetanothermainframer.blogspot.com/](https://yetanothermainframer.blogspot.com/)
 
-- 💬 Ask me about **COBOl, JCL, DB2, CICS, IMB MQ**
+- 💬 Ask me about **COBOl, JCL, DB2, CICS, IBM MQ**
 
 - 📫 How to reach me **sandeep.p4856@gmail.com**
 
-- ⚡ Fun fact **Foam: It Isn’t So Bad After All**
+- ⚡ Fun fact **Beer strenghten your bones**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
