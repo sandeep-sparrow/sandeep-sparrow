@@ -1,6 +1,6 @@
 # sandeep-sparrow
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate COBOL | CICS | DB2 | ASP.NET MVC Application developer from India</h3>
+<h3 align="center">A passionate COBOL | CICS | DB2 | ASP.NET MVC Application developer</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-sparrow&show_icons=true&locale=en&layout=compact" alt="sandeep-sparrow" /></p>
 
