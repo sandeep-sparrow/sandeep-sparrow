@@ -1,6 +1,6 @@
 # sandeep-sparrow
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
-<h3 align="center">A passionate COBOL | CICS | DB2 | ASP.NET MVC Application developer</h3>
+<h3 align="center">A passionate COBOL | CICS | DB2 | Java | Spring | Hibernate </h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-sparrow&show_icons=true&locale=en&layout=compact" alt="sandeep-sparrow" /></p>
 
@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/sandeep_p555" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_p555?logo=twitter&style=for-the-badge" alt="sandeep_p555" /></a> </p>
 
-- 🌱 I’m currently learning **ASP.NET MVC, C# .NET**
+- 🌱 I’m currently learning **JAVA | SPRING | Hibernate **
 
-- 👯 I’m looking to collaborate on **ASP.NET MVC RockyWebApp & ASP.NET Dating App**
+- 👯 I’m looking to collaborate on **JAVA | SPRING | Hibernate**
 
 - 📝 I regularly write articles on [https://yetanothermainframer.blogspot.com/](https://yetanothermainframer.blogspot.com/)
 
@@ -24,7 +24,7 @@
 
 - 📫 How to reach me **sandeep.p4856@gmail.com**
 
-- ⚡ Fun fact **Beer strenghten your bones**
+- ⚡ Fun fact **Tea strenghten your Brain**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
