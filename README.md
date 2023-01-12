@@ -2,10 +2,6 @@
 <h1 align="center">Hi 👋, I'm Sandeep</h1>
 <h3 align="center">A passionate COBOL | CICS | DB2 | Java | Spring | Hibernate </h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandeep-sparrow&show_icons=true&locale=en&layout=compact" alt="sandeep-sparrow" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandeep-sparrow&show_icons=true&locale=en" alt="sandeep-sparrow" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sandeep-sparrow&" alt="sandeep-sparrow" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandeep-sparrow&label=Profile%20views&color=0e75b6&style=flat" alt="sandeep-sparrow" /> </p>
