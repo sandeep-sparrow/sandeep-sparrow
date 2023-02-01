@@ -8,8 +8,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeep-sparrow" alt="sandeep-sparrow" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/sandeep_p555" target="blank"><img src="https://img.shields.io/twitter/follow/sandeep_p555?logo=twitter&style=for-the-badge" alt="sandeep_p555" /></a> </p>
-
 - 🌱 I’m currently learning **JAVA | SPRING | Hibernate **
 
 - 👯 I’m looking to collaborate on **JAVA | SPRING | Hibernate**
